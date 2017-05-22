@@ -3,7 +3,6 @@
   * Main Library for WhatsApp Dialogs
   * ---------------------------------
   * $msg can use \n characters.
-  * Enclose with * for bold and _ for italics.
   *
   * To create a simple chatbox, just include this file
   * and use function msgbox.
@@ -12,6 +11,8 @@
   *
   * Built by willi123yao(https://github.com/willi123yao)
   */
+
+  namespace ChatBox;
 
   class ChatBox {
     var $head = '<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">';
