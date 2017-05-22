@@ -18,7 +18,7 @@ P.S. The time should be in epoch time and status should be either 'read' or 'sen
 
 ## How to contribute
 Head over to [TODO.md](./TODO.md) and start helping by creating the features.
-For bugs and problems, the [Issues](https://github.com/willi123yao/ChatBox/Issues) page would be a good place to do so.
+For bugs and problems, the [Issues](https://github.com/willi123yao/ChatBox/issues) page would be a good place to do so.
 
 ## DISCLAIMER
 The default font used by Whatsapp (Helvetica Neue) is NOT provided. Please place it in the `chatbox\` folder and rename it to `helveticaNeue.ttf`. Otherwise, it will use the default Helvetica font on your system.
